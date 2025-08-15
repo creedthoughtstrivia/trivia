@@ -1,0 +1,912 @@
+{
+  "meta": {
+    "setId": "creed-pack-001A",
+    "title": "Creed Pack 001A — Creed & Office General",
+    "author": "CT Team",
+    "version": 1
+  },
+  "settings": {
+    "shuffleQuestions": true,
+    "shuffleAnswers": true,
+    "perQuestionTimerSec": 25,
+    "showExplanations": true
+  },
+  "questions": [
+    {
+      "id": "Q-001",
+      "type": "single",
+      "prompt": "What department is Creed in at Dunder Mifflin?",
+      "answers": [
+        "Quality Assurance",
+        "Sales",
+        "Accounting",
+        "Human Resources"
+      ],
+      "correctIndex": 0,
+      "explanation": "Creed Bratton is Quality Assurance.",
+      "tags": [
+        "creed",
+        "role"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-002",
+      "type": "single",
+      "prompt": "Creed’s ‘blog’ was actually what?",
+      "answers": [
+        "A Word document",
+        "A MySpace page",
+        "A real Tumblr",
+        "An email newsletter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ryan set up a Word doc and told Creed it was a blog.",
+      "tags": [
+        "creed",
+        "running-joke"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-003",
+      "type": "single",
+      "prompt": "Which instrument does Creed play?",
+      "answers": [
+        "Guitar",
+        "Drums",
+        "Piano",
+        "Violin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Both character and actor play guitar.",
+      "tags": [
+        "creed",
+        "music"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-004",
+      "type": "single",
+      "prompt": "Which real band was Creed (the actor) a member of?",
+      "answers": [
+        "The Grass Roots",
+        "The Doors",
+        "The Monkees",
+        "The Byrds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Creed Bratton was a member of The Grass Roots.",
+      "tags": [
+        "creed",
+        "music",
+        "behind-the-scenes"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-005",
+      "type": "single",
+      "prompt": "Around Halloween, Creed shows up with what changed?",
+      "answers": [
+        "Jet-black dyed hair",
+        "Shaved eyebrows",
+        "Bleached beard",
+        "Face paint"
+      ],
+      "correctIndex": 0,
+      "explanation": "He appears suddenly with dyed black hair.",
+      "tags": [
+        "creed",
+        "halloween"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-006",
+      "type": "single",
+      "prompt": "What company do they work for?",
+      "answers": [
+        "Dunder Mifflin",
+        "Wernham Hogg",
+        "Pied Piper",
+        "Vance Paper"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Scranton branch of Dunder Mifflin.",
+      "tags": [
+        "general"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-007",
+      "type": "single",
+      "prompt": "Who is the Scranton branch regional manager for most of the early series?",
+      "answers": [
+        "Michael Scott",
+        "Jan Levinson",
+        "Jim Halpert",
+        "Dwight Schrute"
+      ],
+      "correctIndex": 0,
+      "explanation": "Michael Scott leads the Scranton branch.",
+      "tags": [
+        "general",
+        "management"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-008",
+      "type": "single",
+      "prompt": "Jim and Pam get married at which famous location?",
+      "answers": [
+        "Niagara Falls",
+        "Central Park",
+        "Lake Scranton",
+        "The Poconos"
+      ],
+      "correctIndex": 0,
+      "explanation": "They elope on the Maid of the Mist at Niagara Falls.",
+      "tags": [
+        "general",
+        "jim",
+        "pam",
+        "wedding"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-009",
+      "type": "single",
+      "prompt": "Dwight owns which kind of farm?",
+      "answers": [
+        "Beet farm",
+        "Corn farm",
+        "Pumpkin farm",
+        "Dairy farm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Schrute Farms is a beet farm and B&B.",
+      "tags": [
+        "dwight",
+        "farm"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-010",
+      "type": "single",
+      "prompt": "Angela’s beloved cat that met an unfortunate end was named…",
+      "answers": [
+        "Sprinkles",
+        "Bandit",
+        "Garbage",
+        "Princess Lady"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sprinkles; later Bandit is often seen in the office.",
+      "tags": [
+        "angela",
+        "cats"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-011",
+      "type": "single",
+      "prompt": "Kevin is most famously associated with what mishap?",
+      "answers": [
+        "Spilling his chili",
+        "Locking himself in the bathroom",
+        "Dropping a wedding cake",
+        "Shrinking a sweater"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kevin’s famous chili spill.",
+      "tags": [
+        "kevin",
+        "meme"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-012",
+      "type": "single",
+      "prompt": "Stanley’s favorite office day is…",
+      "answers": [
+        "Pretzel Day",
+        "Casual Friday",
+        "Beach Day",
+        "Merger Day"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘I wake up every day in a bed that’s too small…’ Pretzel Day.",
+      "tags": [
+        "stanley"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-013",
+      "type": "single",
+      "prompt": "Phyllis is married to whom?",
+      "answers": [
+        "Bob Vance",
+        "Toby Flenderson",
+        "Roy Anderson",
+        "David Wallace"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bob Vance of Vance Refrigeration.",
+      "tags": [
+        "phyllis",
+        "bob-vance"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-014",
+      "type": "single",
+      "prompt": "Ryan started at Scranton as what role?",
+      "answers": [
+        "Temp",
+        "Salesman",
+        "HR rep",
+        "Warehouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ryan Howard begins as a temp.",
+      "tags": [
+        "ryan",
+        "career"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-015",
+      "type": "single",
+      "prompt": "Toby works in which department?",
+      "answers": [
+        "Human Resources",
+        "Sales",
+        "Accounting",
+        "Warehouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Toby is the HR rep (corporate HR).",
+      "tags": [
+        "toby",
+        "hr"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-016",
+      "type": "single",
+      "prompt": "Andy often performs with which collegiate group name?",
+      "answers": [
+        "Here Comes Treble",
+        "Treble Makers",
+        "The Warblers",
+        "Beet Harmony"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andy’s a cappella group is ‘Here Comes Treble’.",
+      "tags": [
+        "andy",
+        "music"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-017",
+      "type": "single",
+      "prompt": "Jan later starts which side business?",
+      "answers": [
+        "Serenity by Jan (candles)",
+        "Yogurt shop",
+        "Event planning",
+        "Art gallery"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘Serenity by Jan’ candles.",
+      "tags": [
+        "jan",
+        "business"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-018",
+      "type": "single",
+      "prompt": "Michael briefly starts a rival company called…",
+      "answers": [
+        "Michael Scott Paper Company",
+        "Scranton Paper Co.",
+        "World’s Best Paper",
+        "Scott & Co. Paper"
+      ],
+      "correctIndex": 0,
+      "explanation": "He starts it with Pam and Ryan.",
+      "tags": [
+        "michael",
+        "company"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-019",
+      "type": "single",
+      "prompt": "Which company acquires Dunder Mifflin mid-series?",
+      "answers": [
+        "Sabre",
+        "Utica Paper",
+        "Prince Family Paper",
+        "Athlead"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sabre, led by Jo Bennett.",
+      "tags": [
+        "corporate",
+        "sabre"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-020",
+      "type": "single",
+      "prompt": "Robert California becomes what at Sabre?",
+      "answers": [
+        "CEO",
+        "CFO",
+        "Head of Sales",
+        "Regional Manager"
+      ],
+      "correctIndex": 0,
+      "explanation": "He talks himself into the CEO role.",
+      "tags": [
+        "corporate",
+        "robert-california"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-021",
+      "type": "single",
+      "prompt": "Dwight’s emergency drill causes which coworker to have a health scare?",
+      "answers": [
+        "Stanley",
+        "Kevin",
+        "Meredith",
+        "Creed"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stanley has a cardiac episode after Dwight’s drill.",
+      "tags": [
+        "dwight",
+        "safety"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-022",
+      "type": "single",
+      "prompt": "Meredith is hit by whose car?",
+      "answers": [
+        "Michael’s",
+        "Dwight’s",
+        "Andy’s",
+        "Toby’s"
+      ],
+      "correctIndex": 0,
+      "explanation": "Michael hits Meredith, leading to the ‘Fun Run’.",
+      "tags": [
+        "meredith",
+        "fun-run"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-023",
+      "type": "single",
+      "prompt": "The ‘Fun Run’ is ostensibly for awareness of which disease?",
+      "answers": [
+        "Rabies",
+        "Flu",
+        "Lyme disease",
+        "Diabetes"
+      ],
+      "correctIndex": 0,
+      "explanation": "The over-the-top Rabies Awareness fun run.",
+      "tags": [
+        "fun-run"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-024",
+      "type": "single",
+      "prompt": "What is the Scranton branch’s long-time rival branch that merged earlier?",
+      "answers": [
+        "Stamford",
+        "Nashua",
+        "Utica",
+        "Akron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stamford merges into Scranton after closures.",
+      "tags": [
+        "branches",
+        "stamford"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-025",
+      "type": "single",
+      "prompt": "Holly Flax works in which department?",
+      "answers": [
+        "HR",
+        "Accounting",
+        "Sales",
+        "Warehouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Holly is HR and Michael’s love interest.",
+      "tags": [
+        "holly",
+        "hr"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-026",
+      "type": "single",
+      "prompt": "Creed serves briefly as what at the Scranton branch?",
+      "answers": [
+        "Acting manager",
+        "Warehouse foreman",
+        "Sales lead",
+        "HR interim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Creed is acting manager for a short period.",
+      "tags": [
+        "creed",
+        "management"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-027",
+      "type": "single",
+      "prompt": "Jim briefly shares which title with Michael?",
+      "answers": [
+        "Co‑manager",
+        "Assistant Regional Manager",
+        "CFO",
+        "CEO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jim is co‑manager for a period.",
+      "tags": [
+        "jim",
+        "management"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-028",
+      "type": "single",
+      "prompt": "Pam transitions from receptionist to which role?",
+      "answers": [
+        "Sales",
+        "HR",
+        "Accounting",
+        "Warehouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pam later moves to sales (and office admin).",
+      "tags": [
+        "pam",
+        "career"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-029",
+      "type": "single",
+      "prompt": "Who is the CFO that often appears in corporate scenes?",
+      "answers": [
+        "David Wallace",
+        "Josh Porter",
+        "Gabe Lewis",
+        "Charles Miner"
+      ],
+      "correctIndex": 0,
+      "explanation": "David Wallace is CFO and later buys the company.",
+      "tags": [
+        "corporate",
+        "cfo"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-030",
+      "type": "single",
+      "prompt": "Which character is known for martial arts and strict rules?",
+      "answers": [
+        "Dwight Schrute",
+        "Gabe Lewis",
+        "Charles Miner",
+        "Nate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dwight has a disciplined, paramilitary vibe.",
+      "tags": [
+        "dwight"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-031",
+      "type": "single",
+      "prompt": "Andy plays which string instrument most often?",
+      "answers": [
+        "Banjo",
+        "Violin",
+        "Cello",
+        "Bass"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andy frequently plays banjo.",
+      "tags": [
+        "andy",
+        "music"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-032",
+      "type": "single",
+      "prompt": "Michael dates his realtor named…",
+      "answers": [
+        "Carol",
+        "Katy",
+        "Donna",
+        "Erin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carol (played by Steve Carell’s real-life spouse).",
+      "tags": [
+        "michael",
+        "relationships"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-033",
+      "type": "single",
+      "prompt": "Kelly Kapoor primarily works in…",
+      "answers": [
+        "Customer Service",
+        "Sales",
+        "Accounting",
+        "HR"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kelly is Customer Service.",
+      "tags": [
+        "kelly"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-034",
+      "type": "single",
+      "prompt": "Oscar’s department is…",
+      "answers": [
+        "Accounting",
+        "Sales",
+        "Warehouse",
+        "HR"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oscar is part of accounting.",
+      "tags": [
+        "oscar",
+        "accounting"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-035",
+      "type": "single",
+      "prompt": "Darryl starts in the warehouse and later moves…",
+      "answers": [
+        "Upstairs to an office role",
+        "To Utica",
+        "To Nashua",
+        "Back to college"
+      ],
+      "correctIndex": 0,
+      "explanation": "He transitions to an office position.",
+      "tags": [
+        "darryl",
+        "career"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-036",
+      "type": "single",
+      "prompt": "The office is located in which city?",
+      "answers": [
+        "Scranton",
+        "Buffalo",
+        "Pittsburgh",
+        "Philadelphia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Scranton, Pennsylvania.",
+      "tags": [
+        "location"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-037",
+      "type": "single",
+      "prompt": "What’s the name of the local paper company visited by Michael and Dwight that is family-run?",
+      "answers": [
+        "Prince Family Paper",
+        "Utica Paper",
+        "Blue Ribbon Paper",
+        "Sarnac"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prince Family Paper episode.",
+      "tags": [
+        "general",
+        "paper"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "Q-038",
+      "type": "single",
+      "prompt": "Which character starts ‘WUPHF.com’?",
+      "answers": [
+        "Ryan",
+        "Jim",
+        "Dwight",
+        "Gabe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ryan’s multi‑platform notification startup.",
+      "tags": [
+        "ryan",
+        "startup"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-039",
+      "type": "single",
+      "prompt": "Gabe Lewis is introduced after which corporate change?",
+      "answers": [
+        "Sabre acquisition",
+        "Stamford merger",
+        "Michael Scott Paper Company",
+        "Utica poaching"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gabe is a Sabre liaison.",
+      "tags": [
+        "gabe",
+        "sabre"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-040",
+      "type": "single",
+      "prompt": "Nellie Bertram is associated with which position at various times?",
+      "answers": [
+        "Special projects/Management",
+        "Warehouse foreman",
+        "IT support",
+        "Sales intern"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nellie pops in as a manager/special projects.",
+      "tags": [
+        "nellie",
+        "management"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "Q-041",
+      "type": "single",
+      "prompt": "Which couple calls off their wedding before Pam & Jim’s storyline?",
+      "answers": [
+        "Pam & Roy",
+        "Phyllis & Bob",
+        "Angela & Andy",
+        "Angela & Dwight"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pam and Roy split before Pam & Jim marry.",
+      "tags": [
+        "relationships"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-042",
+      "type": "single",
+      "prompt": "Creed is known for what kind of personal backstory style?",
+      "answers": [
+        "Vague and suspicious",
+        "Overly detailed",
+        "Strictly professional",
+        "Academic"
+      ],
+      "correctIndex": 0,
+      "explanation": "He hints at criminal or odd past experiences.",
+      "tags": [
+        "creed",
+        "humor"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-043",
+      "type": "single",
+      "prompt": "Which branch does Karen Filippelli transfer to before returning later in the series?",
+      "answers": [
+        "Utica",
+        "Stamford",
+        "Nashua",
+        "Buffalo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karen becomes the Utica branch manager.",
+      "tags": [
+        "karen",
+        "branches"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "Q-044",
+      "type": "single",
+      "prompt": "Whose baby is named ‘Cece’?",
+      "answers": [
+        "Jim & Pam’s",
+        "Phyllis & Bob’s",
+        "Meredith’s",
+        "Angela’s"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cece Halpert.",
+      "tags": [
+        "family",
+        "jim",
+        "pam"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-045",
+      "type": "single",
+      "prompt": "Which character is a volunteer sheriff’s deputy?",
+      "answers": [
+        "Dwight",
+        "Andy",
+        "Creed",
+        "Jim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dwight cites volunteer deputy/safety roles.",
+      "tags": [
+        "dwight"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-046",
+      "type": "single",
+      "prompt": "Michael’s screenplay is titled…",
+      "answers": [
+        "Threat Level Midnight",
+        "Agent Michael Scarn",
+        "Midnight Scarn",
+        "Crime Aid"
+      ],
+      "correctIndex": 0,
+      "explanation": "Threat Level Midnight featuring Michael Scarn.",
+      "tags": [
+        "michael",
+        "meta"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-047",
+      "type": "single",
+      "prompt": "Which character’s mom dates Michael briefly?",
+      "answers": [
+        "Pam",
+        "Erin",
+        "Phyllis",
+        "Kelly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pam’s mom, Helene.",
+      "tags": [
+        "michael",
+        "pam",
+        "family"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "Q-048",
+      "type": "single",
+      "prompt": "What annual beach event features competitions among employees?",
+      "answers": [
+        "Beach Day",
+        "Fun Run",
+        "Casino Night",
+        "Booze Cruise"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beach Day with sumo suits and contests.",
+      "tags": [
+        "events"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-049",
+      "type": "single",
+      "prompt": "Who famously says they’re ‘not superstitious, but a little stitious’?",
+      "answers": [
+        "Michael",
+        "Jim",
+        "Dwight",
+        "Andy"
+      ],
+      "correctIndex": 0,
+      "explanation": "A classic Michael Scott line.",
+      "tags": [
+        "quotes",
+        "michael"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "Q-050",
+      "type": "single",
+      "prompt": "Which character runs a bed-and-breakfast at their farm?",
+      "answers": [
+        "Dwight",
+        "Mose",
+        "Angela",
+        "Creed"
+      ],
+      "correctIndex": 0,
+      "explanation": "Schrute Farms B&B.",
+      "tags": [
+        "dwight",
+        "schrute-farms"
+      ],
+      "difficulty": 2
+    }
+  ]
+}
